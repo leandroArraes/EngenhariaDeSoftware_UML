@@ -1,0 +1,8 @@
+Atividade prática avaliada 2 Diagrama de Sequencia do Caso de uso registrar uso de catraca metro
+Atividade prática avaliada
+
+==========================
+
+Crie um diagrama de sequência e diagrama de classe do caso de uso "Registrar accesso à catraca do metrô ou onibus"
+
+*Considere somente a utilização do RioCard vale transporte

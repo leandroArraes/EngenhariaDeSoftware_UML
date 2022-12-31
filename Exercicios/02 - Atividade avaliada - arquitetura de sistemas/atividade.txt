@@ -1,0 +1,27 @@
+Parabéns! Você foi contratado pela empresa Metrô Rio para atualizar o sistema de monitoramento da chegada de vagões nas estações desde uma central de monitoramento integrado ao sistema central para aviso de chegada de cada vagão nas estações.
+
+O objetivo do trabalho é de criar um sistema com uma interface gráfica para a visualização da localização e status de operação de cada vagão no o centro de controle.
+
+Também está incluído no contrato do projeto, a instalação de uma tela LCD acima de cada porta de cada vagão, com informações de qual estação o usuário se encontra numa parada e quais são as ruas mais próximas da saída da estação.
+
+Dentro da via de ferro, existem sensores que enviam informação para uma central e para o vagão. Veja em anexo um artigo que mostra o funcionamento do sistema de sensoriamento e sinalização.
+
+Tarefas
+
+1) Crie um diagrama de casos de uso indicando as principais funcionalidades do Sistemas principal e dos subsistemas a serem propostos.
+
+2) Identifique as Entidades necessárias para o sistema (Diagrama de classes, classes de modelo com atributos).
+
+2) Identifique os diversos sub sistemas necessários para este problema;
+
+3) Identifique os componentes de software necessários para cada sistema (bibliotecas, frameworks, etc.);
+
+4) Considere que o sistema irá interagir com sensores e outros dispositivos físicos;
+
+5) Elabore uma proposta com a apresentação de um diagrama de Implantação da arquitetura do software para este projeto. (Considere no desenho arquitetural a possível junção das arquiteturas dos subsistemas envolvidos, explicando o propósito de cada subsistema proposto).
+
+PS. Em anexo tem informações do funcionamento de um sistema de controle de trens e exemplo de uma arquitetura padrão de um sistema, que neste caso precisa ser modificada e aprimorada para atender à solução.
+
+
+
+O envio da tarefa consiste nos arquivos JPG ou PNG dos diagramas de casos de uso, diagrama de classes e diagrama de implantação geral do sistema (com visão dos componentes dentro de cada nó)
